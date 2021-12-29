@@ -1,1 +1,1 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyvishtan)](https://github.com/urstrulyvishtan/github-readme-stats)
