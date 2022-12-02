@@ -1,5 +1,5 @@
 <h1 align="center">Hola, This is Sibi Vishtan</h1>
-<h3 align="center">Final Year UnderGrad</h3>
+<h3 align="center">Data Science grad student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urstrulyvishtan&label=Profile%20views&color=0e75b6&style=flat" alt="urstrulyvishtan" /> </p>
 
